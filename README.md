@@ -30,7 +30,7 @@ int main() {
 	lua_close(L);
 	return 0;
 }
-```
+```**
 
 # Вызов Cи функции из Lua
 
